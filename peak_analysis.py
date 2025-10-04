@@ -53,5 +53,3 @@ def analyze_and_plot_peaks(x_values, y_values, smooth_window=21, poly_order=3, p
         selected_peaks_x = [max_peak_x_value]  # If no other significant peaks, use only the highest one
     
     return selected_peaks_x
-
-

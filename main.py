@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import librosa
 from scipy.signal import find_peaks, savgol_filter
-from test import analyze_and_plot_peaks
+from peak_analysis import analyze_and_plot_peaks
 import pylab
 
 pylab.rc('font', size=9)
