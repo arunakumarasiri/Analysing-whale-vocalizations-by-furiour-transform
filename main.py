@@ -75,7 +75,7 @@ ax5.set_xlabel('Frequency(Hz)')
 fig.set_tight_layout(True)
 
 # plt.tight_layout() 
-fig.savefig("frequency_spectrum.png", dpi = 600)
+fig.savefig("frequency_spectrum.png", dpi = 300)
 # plt.show()
 
 
