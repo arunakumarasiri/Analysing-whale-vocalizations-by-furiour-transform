@@ -64,7 +64,7 @@ ax1.set_title('South Pacific Blue whale')
 ax2.set_title('Northeast Pacific blue whale')
 ax3.set_title('Western Pacific blue whale')
 ax4.set_title('Atlantic blue whale')
-ax5.set_title('Unkonwn')
+ax5.set_title('Unknown')
 ax6.set_title('dolphin')
 
 ax1.set_ylabel("Magnitude")
